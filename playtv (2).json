@@ -1527,6 +1527,12 @@
         "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
       },
       {
+        "name": "TL NOVELAS",
+        "uri": "https://snqplaypro.com/demotv/play/287.m3u8",
+        "icono": "http://imgfz.com/i/MiNCorB.jpeg"
+      },
+      
+      {
         "name": "PASIONES",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd",
         "drm_scheme": "clearkey",
