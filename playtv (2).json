@@ -852,7 +852,7 @@
       },
 	  {
         "name": "TELEFUTURO",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "uri": "https://edge-live02-mun.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
