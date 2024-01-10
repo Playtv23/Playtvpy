@@ -1884,11 +1884,12 @@
         "drm_license_uri": "https://dl.dropbox.com/s/datzo5nr08jw7ww/KEY.PREMIER.json",
         "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
       },
-       {
+      {
         "name": "PREMIERE OPC 2",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
-         "drm_scheme": "clearkey",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
+        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
       },
 	    {
         "name": "PREMIERE 3",
