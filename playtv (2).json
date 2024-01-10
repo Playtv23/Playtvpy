@@ -963,21 +963,18 @@
         "name": "Unión Tv",
         "uri": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
         "icono": "https://i.ibb.co/9hqVmzy/descarga.png"
-      }
-    
       },
       {
         "name": "Motor Sur",
         "uri": "https://59ce1298bfb98.streamlock.net/motorsur/motorsur/chunklist.m3u8",
         "icono": "http://imgfz.com/i/FpWh7Uz.png"
-      }
-       },
+      },
       {
         "name": "Mi Tv",
         "uri": "https://rds3.desdeparaguay.net/mitv/mitv/chunklist.m3u8",
         "icono": "http://imgfz.com/i/Z5dlkOz.png"
-      },
-]
+      }
+    ]
   },
   {
     "name": "TV NOVELAS",
