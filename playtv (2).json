@@ -846,6 +846,11 @@
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
       },
       {
+        "name": "SNT OPC 2",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
+      },
+	  {
         "name": "TELEFUTURO",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
         "drm_scheme": "clearkey",
@@ -878,7 +883,7 @@
       },
       {
         "name": "UNICANAL OPC 2",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIC)/index.m3u8",
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
       },
 	  
