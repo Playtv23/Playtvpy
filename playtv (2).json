@@ -1767,10 +1767,8 @@
 
       {
         "name": "DIRECTV",
-        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731",
-        "icono": "https://i.ibb.co/Cbx5gZt/descarga-6.jpg"
+        "uri": "http://winscript.xyz/ghost69/lamtv/play.php?u=la9a/0273/8.m3u8",
+        "icono": "http://imgfz.com/i/q9HYFAD.png"
       },
       {
         "name": "DIRECTV +",
