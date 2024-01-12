@@ -1414,6 +1414,11 @@
         "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8",
         "icono": "https://i.postimg.cc/qMvdmtPQ/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"
       }
+	    {
+        "name": "ALERTA EN AEROPUERTO",
+        "uri": "https://snqplaypro.com/demotv/play/347.m3u8",
+        "icono": "http://imgfz.com/i/ZMmLB0S.jpeg"
+      }
     ]
   },
   {
@@ -1956,3 +1961,43 @@
     ]
   },
   {
+    "name": "DAZN",
+    "samples": [
+      {
+        "name": "DAZN ALEMANIA",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
+      },
+      {
+        "name": "DAZN ALEMANIA 2",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
+      },
+      {
+        "name": "DAZN ESPAÑA 1",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
+      },
+      {
+        "name": "DAZN ESPAÑA 2",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/hu6tqqtxeb58k7rbkeqpy/KEY.DAZNESPA-A2.json?rlkey=9ek0p67c94vn064qrlqboyp7a&dl=0",
+        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
+      },
+      {
+        "name": "DAZN2",
+        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e78391deb5706f9311d952d6be6a6139&key=6f18f24433288d9462597aed58138336",
+        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
+      }
+    ]
+  }
+]
