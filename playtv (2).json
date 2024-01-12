@@ -839,7 +839,12 @@
     "name": "TV PARAGUAY",
     "samples": [
       {
-        "name": "SNT",
+        "name": "SNT CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8",
+        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
+      },
+     {
+        "name": "SNT FLOW",
         "uri": "https://chromecast.cvattv.com.ar//live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/70r0igk57komgc8/KEY.SNT.json",
@@ -884,7 +889,12 @@
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
       },
       {
-        "name": "PARAGUAY TV",
+        "name": "PARAGUAY TV CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PARAGUAY_TV)/index.m3u8",
+        "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
+      },
+      {
+        "name": "PARAGUAY TV FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/iigq4s9v3pzvdva/KEY.PARAGUAY.TV.json",
@@ -925,7 +935,12 @@
         "icono": "https://i.ibb.co/dGqjksf/descarga.png"
       },
       {
-        "name": "NPY",
+        "name": "NPY CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NOTICIAS_PY)/index.m3u8",
+        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
+      },
+      {
+        "name": "NPY FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wmdyfjtx1t6gdoonqzdp7/KEY.NPY.json?rlkey=ds2241ejehvlvi69xyjvnryfn&dl=0",
@@ -939,7 +954,12 @@
         "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
       },
       {
-        "name": "C9N",
+        "name": "C9N CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CN9)/index.m3u8",
+        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
+      },
+      {
+        "name": "C9N FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/4xslpl7mf646178r4dff1/KEY.c9n.json?rlkey=0ynm9yhtlsc7hwcy4xfsjte0v&dl=0",
