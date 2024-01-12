@@ -1687,7 +1687,11 @@
   {
     "name": "DEPORTES",
     "samples": [
-     
+      {
+        "name": "AFIZZINADOS",
+        "uri": "https://snqplaypro.com/demotv/play/337.m3u8",
+        "icono": "http://imgfz.com/i/6zXlMNd.png"
+      },
       {
         "name": "TNT SPORT HD OPC 2",
         "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
