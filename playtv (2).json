@@ -1354,6 +1354,12 @@
     "name": "CANALES INFANTILES",
     "samples": [
       {
+        "name": "ALERTA EN AEROPUERTO",
+        "uri": "https://snqplaypro.com/demotv/play/347.m3u8",
+        "icono": "http://imgfz.com/i/ZMmLB0S.jpeg"
+      },
+	  
+	  {
         "name": "PAKA PAKA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
         "drm_scheme": "clearkey",
@@ -1414,11 +1420,6 @@
         "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8",
         "icono": "https://i.postimg.cc/qMvdmtPQ/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"
       }
-	    {
-        "name": "ALERTA EN AEROPUERTO",
-        "uri": "https://snqplaypro.com/demotv/play/347.m3u8",
-        "icono": "http://imgfz.com/i/ZMmLB0S.jpeg"
-      },
     ]
   },
   {
