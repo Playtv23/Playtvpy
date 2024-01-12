@@ -1683,15 +1683,11 @@
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       }
    ]
-  },
+ },
   {
     "name": "DEPORTES",
     "samples": [
-     {
-        "name": "AFIZZIONADOS",
-        "uri": "https://snqplaypro.com/demotv/play/337.m3u8",
-        "icono": "http://imgfz.com/i/6zXlMNd.png"
-      },
+     
       {
         "name": "TNT SPORT HD OPC 2",
         "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
@@ -2016,3 +2012,4 @@
     ]
   }
 ]
+
