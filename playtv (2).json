@@ -873,7 +873,7 @@
       },
        {
         "name": "TELEFUTURO FLOW 4",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
@@ -1001,7 +1001,7 @@
         "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg"
       },
       {
-        "name": "Unión Tv",
+        "name": "UNION TV",
         "uri": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
         "icono": "https://i.ibb.co/9hqVmzy/descarga.png"
       }
