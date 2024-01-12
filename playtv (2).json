@@ -23,8 +23,8 @@
     "name": "TIGO SPORTS",
     "samples": [
       {
-        "name": "TIGO 24/7",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/onlinepy/playlist.m3u8",
+        "name": "Tigo Sports py",
+        "uri": "http://45.159.95.33:8080/play/mpegts/eyJpdiI6IjNWZ3dmeGZaaWxLNEI3RmRTdVZVdHc9PSIsInZhbHVlIjoib1Y2d2JpNklQaXVhSVBWejNxdGRaY2libVI4WDJtdU5EbkxEcWprSjA1MEVOVnNoa2h4MWoyWG1uZWxWWmFSdCIsIm1hYyI6ImY4MzlhZDhiNDM4YjU3NjBlNGFjMmQ3NDI1MGNmMmRmMWFjMDhiNzBlMzBjZjczMTU4YzUwNGNjOThjNWM4MzYiLCJ0YWciOiIifQ==/59769b5b-8a67-4c81-8146-583742c089ec.ts?lvtoken=eyJpdiI6IkRWUTZIaTkwbFczWnBxQmVBMFdQOFE9PSIsInZhbHVlIjoiVXNzc1pxbFJzRDFQVHRTSUI4N3JkZEdsejJlM0xrWndIb0cwUkpmaEpZVXExTkdGNUpGSHhTYklUUFNVbFhjK0RmQXg1VXFDSHhPKzU2SW1CTlB3RnZtTlBzTG8yQjVqMXZxOUR5ODdEcU0zVnZEb2E2eGZNUWZvUW1jaGRxcTlJRjZUYWx5TzU5Vk9RVllET0d4YmNqWVJUR0locnNEZGU3NlBsdlM5K3V1azIwS1dHVURhQ0o4azBLMWFkUWJCSVV2aTNObkpQanoySE1BT1BhUGhUdz09IiwibWFjIjoiZGFmOTZkYTUwZWVjODAwZTNiMGI2ZTQyMjAzODczZDBkZTIxNDEzZjhkOTI4OWRlOGJlNTU2MzI3MzEwZWJmMiIsInRhZyI6IiJ9&r=c960d9&rt=05951279e3fefd7ec26182b24c3fee76",
         "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       },
       {
@@ -373,21 +373,21 @@
     "samples": [
       {
         "name": "TELEFE",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
 	"drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/pndw7j4les9ipwv2igj75/KEY.TELEFE.json?rlkey=glk8cggb1vdusado5sfnko1v9&dl=0",
         "icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
       },
       {
         "name": "EL TRECE ",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
+        "uri": "http://edge-live13-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
 	"drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ys35uiuvpe1pjqo1qodkm/KEY.ELTRECE.json?rlkey=om3bspgh8rrciw6li4am3ur30&dl=0",  
         "icono": "https://i.ibb.co/Tv2dWPq/descarga-8.jpg"
       },
       {
         "name": "CANAL 9 ",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd",
+        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/6v30ywqjr626q7jz9h42j/KEY.ELNUEVE.json?rlkey=czk8n4pwm6e9edelmeis8ol4o&dl=0",
         "icono": "https://i.ibb.co/cvLm0JB/canal9.jpg"
@@ -411,7 +411,7 @@
       },
       {
         "name": "C5N",
-        "uri": "https://chromecast.cvattv.com.ar//live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/8qezeqv7vj1qu9u/KEY.C5N.json?dl=0",
         "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
@@ -425,7 +425,7 @@
       },
       {
         "name": "LN+ - LA NACION",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
+        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/2g9r1utf8zj8vw0yda8yc/KEY.lanacion.json?rlkey=zo5mso9mgifdzuj9u8kla5fu1&dl=0",
         "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg"
@@ -439,14 +439,14 @@
       },
       {
         "name": "A24",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ncudo7c71ietujw7plcae/KEY.AMERICA24.json?rlkey=6gd2dyobwhz8idj85tsidgb5m&dl=0",
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
       },
       {
         "name": "CANAL 26",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/6rnhvi466d8c62tackc3m/KEY.CANAL.26.json?rlkey=edi6dma78hs5uui9kkf9owazz&dl=0",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
@@ -458,14 +458,14 @@
       },
       {
         "name": "BRAVO TV",
-        "uri": "https://chromecast.cvattv.com.ar/r/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/ku3d8yzsa6hqnwyevq8ng/KEY.BRAVO.TV.json?rlkey=5xxws45wqa93j0fuqbpcchkcl&dl=0",
         "icono": "https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg"
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/44p1aws6j2n0qbe/keyargentinisima.json",
         "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
@@ -477,21 +477,21 @@
       },
       {
         "name": "CANAL 12 CORDOBA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
         "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
       },
       {
         "name": "VOLVER",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/5q6sso7233ndie1fihsv5/KEY.VOLVER.json?rlkey=gf64ba3ck9r9lzv6b90u4x9yf&dl=0",
         "icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
       },
       {
         "name": "CIUDAD MAGAZINE",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/5uv7bznva0r4gd1k3al4y/KEY.CIUDAD.MAGAZINE.json?rlkey=r4gixsnqg6pbt9pdzn8mmuyx2&dl=0",
         "icono": "https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg"
@@ -847,7 +847,7 @@
       },
       {
         "name": "TELEFUTURO",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "uri": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
@@ -859,7 +859,7 @@
       },
       {
         "name": "RPC",
-        "uri": "https://chromecast.cvattv.com.ar//live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "uri": "https://edge-live15-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/ali4de91dll87bi/KEY.RPC.json",
         "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
@@ -871,21 +871,21 @@
       },
       {
         "name": "UNICANAL",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
+        "uri": "http://edge-live11-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/c576n8ruv8vldlti40a1e/KEY.UNICANAL-1.json?rlkey=0d6s80wnw3yxnzu60gmrfuelr&dl=0",
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
       },
       {
         "name": "MEGA TV",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_2A/Mega_TV.mpd",
+        "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_2A/Mega_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/zdz11z81el8qov9wnyvwn/KEY.MEGA-TV1.json?rlkey=gqyyra9dd5k10rkcn5r71426m&dl=0",
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
       },
       {
         "name": "PARAGUAY TV",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/iigq4s9v3pzvdva/KEY.PARAGUAY.TV.json",
         "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
@@ -896,15 +896,15 @@
         "icono": "https://i.ibb.co/f9C18r2/4l-N0-XLZz-400x400.jpg"
       },
       {
-        "name": "CANAL PRO PY",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
+        "name": "canalpropy",
+        "uri": "https://edge-live31-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/fuc1cc3kj5n08pidrs86h/KEY.CANAL.PRO.json?rlkey=ijdt3v4llyfskms0lixjwg00r&dl=0",
         "icono": "https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg"
       },
       {
         "name": "5 DIAS PY",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
+        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/skz673js4bbsvccmx381y/KEY.5DIAS.PY.json?rlkey=pidic0abswqxdmf3lcbphoc3x&dl=0",
         "icono": "https://i.ibb.co/Pg6v5zn/images.png"
@@ -926,35 +926,35 @@
       },
       {
         "name": "NPY",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wmdyfjtx1t6gdoonqzdp7/KEY.NPY.json?rlkey=ds2241ejehvlvi69xyjvnryfn&dl=0",
         "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
       },
       {
         "name": "PARAVISION",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/hwvh6ihwd8cdm3r/KEY.PARAVISON.json",
         "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
       },
       {
         "name": "C9N",
-        "uri": "https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/4xslpl7mf646178r4dff1/KEY.c9n.json?rlkey=0ynm9yhtlsc7hwcy4xfsjte0v&dl=0",
         "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
       },
       {
         "name": "GEN TV",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/1w2rvmtzxk1447m/KEY.GENTV.json",
         "icono": "https://i.ibb.co/k2XNPqR/channels4-profile.jpg"
       },
       {
         "name": "LA TELE",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/z1j68op8dtq50sr/KEY.LATELE.json",
         "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg"
@@ -976,7 +976,7 @@
       },
       {
 	      "name": "TNT NOVELAS",
-        "uri": "https://chromecast.cvattv.com.ar//live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd",
+        "uri": "http://edge-live15-hr.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https:/dl.dropbox.com/scl/fi/a3zgcah2eszo4sy6zbxca/KEY.TNT.NOVELAS.json?rlkey=dywkos2mo9yg7xq2xxf0auorh&dl=0",
         "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
@@ -1643,34 +1643,6 @@
     "name": "DEPORTES",
     "samples": [
       {
-        "name": "DAZN ALEMANIA",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN ALEMANIA 2",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "DAZN ESPAÑA 1",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN ESPAÑA 2",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/hu6tqqtxeb58k7rbkeqpy/KEY.DAZNESPA-A2.json?rlkey=9ek0p67c94vn064qrlqboyp7a&dl=0",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-     {
         "name": "TNT SPORT HD",
         "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
@@ -1901,6 +1873,91 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/9r7n56k9b1a3lsj/KEY.FIGHT.json",
         "icono": "https://i.ibb.co/VQxcM40/43-439776-fightchannel-logo-fight-channel-world-hd.jpg"
+      }
+    ]
+  },
+  {
+    "name": "DAZN 1",
+    "samples": [
+      {
+        "name": "DAZN ALEMANIA",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/8t204ageaw8sqrl5xisxi/KEY.DAZN.json?rlkey=xhye3db6m08bw2i0vcvkpfprl&dl=0",
+        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
+      },
+      {
+        "name": "DAZN ALEMANIA 2",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ac0ugpqoc9zfetonhlyiy/KEY.DAZN2.json?rlkey=qf9ymi2qm8mx1tq0adp1hfc94&dl=0",
+        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
+      },
+      {
+        "name": "ARENA  SPORT 2 PREMIUM",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json",
+        "icono": "https://i.ibb.co/XFwwGcL/tv-station-rs-arena-premium-2-2697.png"
+      },
+      {
+        "name": "ARENA  SPORT 3 PREMIUM",
+        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json",
+        "icono": "https://i.ibb.co/xHy202f/tv-station-rs-arena-premium-3-2698.png"
+      },
+      {
+        "name": "EURO  SPORT",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/euro.json",
+        "icono": "https://i.ibb.co/w7gZXZL/images-2.png"
+      },
+      {
+        "name": "TELE DEPORTE",
+        "uri": "https://tv.portalexpress.es:3044/live/dtplaylive.m3u8",
+        "icono": "https://i.ibb.co/dKBD6Nz/conex-zapping-poster-755986-SPA-13-V.jpg"
+      }
+    ]
+  },
+  {
+    "name": "DAZN",
+    "samples": [
+      {
+        "name": "DAZN ALEMANIA",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
+      },
+      {
+        "name": "DAZN ALEMANIA 2",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
+      },
+      {
+        "name": "DAZN ESPAÑA 1",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
+      },
+      {
+        "name": "DAZN ESPAÑA 2",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/hu6tqqtxeb58k7rbkeqpy/KEY.DAZNESPA-A2.json?rlkey=9ek0p67c94vn064qrlqboyp7a&dl=0",
+        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
+      },
+      {
+        "name": "DAZN2",
+        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e78391deb5706f9311d952d6be6a6139&key=6f18f24433288d9462597aed58138336",
+        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
       }
     ]
   }
