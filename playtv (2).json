@@ -1553,8 +1553,8 @@
       },
       {
         "name": "TL NOVELAS",
-        "uri": "https://snqplaypro.com/demotv/play/287.m3u8"
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
+        "uri": "https://snqplaypro.com/demotv/play/287.m3u8",
+        "icono":"https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
       },
       {
         "name": "CANAL DE LAS ESTRELLAS",
@@ -1781,11 +1781,7 @@
 
       
 
-      {
-        "name": "DIRECTV",
-         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u
-	 "icono": "https://i.ibb.co/Cbx5gZt/descarga-6.jpg"
-      },
+      
       {
         "name": "DIRECTV +",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
