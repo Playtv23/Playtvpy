@@ -838,20 +838,15 @@
   {
     "name": "TV PARAGUAY",
     "samples": [
-       {
-        "name": "SNT OPC 1",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
-      },
-	    {
-        "name": "SNT OPC 2",
+      {
+        "name": "SNT",
         "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/70r0igk57komgc8/KEY.SNT.json",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
       },
       {
-        "name": "TELEFUTURO OPC 1,
+        "name": "TELEFUTURO",
         "uri": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json",
@@ -863,7 +858,7 @@
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
       },
       {
-        "name": "RPC OPC 1",
+        "name": "RPC",
         "uri": "https://edge-live15-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/ali4de91dll87bi/KEY.RPC.json",
@@ -874,13 +869,8 @@
         "uri": "https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/index.m3u8",
         "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
       },
-       {
-        "name": "UNICANAL OPC 1",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8",
-        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
-      },
-	    {
-        "name": "UNICANAL OPC 2",
+      {
+        "name": "UNICANAL",
         "uri": "http://edge-live11-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/c576n8ruv8vldlti40a1e/KEY.UNICANAL-1.json?rlkey=0d6s80wnw3yxnzu60gmrfuelr&dl=0",
@@ -893,13 +883,8 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/zdz11z81el8qov9wnyvwn/KEY.MEGA-TV1.json?rlkey=gqyyra9dd5k10rkcn5r71426m&dl=0",
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
       },
-       {
-        "name": "PARAGUAY TV 1",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PARAGUAY_TV)/index.m3u8",
-        "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
-      },
-	    {
-        "name": "PARAGUAY TV 2",
+      {
+        "name": "PARAGUAY TV",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/iigq4s9v3pzvdva/KEY.PARAGUAY.TV.json",
@@ -953,13 +938,8 @@
         "drm_license_uri": "https://dl.dropbox.com/s/hwvh6ihwd8cdm3r/KEY.PARAVISON.json",
         "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
       },
-        {
-        "name": "C9N 1",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CN9)/index.m3u8",
-        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
-      },
-	    {
-        "name": "C9N 2",
+      {
+        "name": "C9N",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/4xslpl7mf646178r4dff1/KEY.c9n.json?rlkey=0ynm9yhtlsc7hwcy4xfsjte0v&dl=0",
@@ -984,7 +964,20 @@
         "uri": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
         "icono": "https://i.ibb.co/9hqVmzy/descarga.png"
       }
-    ]
+    
+      },
+      {
+        "name": "Motor Sur",
+        "uri": "https://59ce1298bfb98.streamlock.net/motorsur/motorsur/chunklist.m3u8",
+        "icono": "http://imgfz.com/i/FpWh7Uz.png"
+      }
+       },
+      {
+        "name": "Mi Tv",
+        "uri": "https://rds3.desdeparaguay.net/mitv/mitv/chunklist.m3u8",
+        "icono": "http://imgfz.com/i/Z5dlkOz.png"
+      },
+]
   },
   {
     "name": "TV NOVELAS",
@@ -1410,7 +1403,7 @@
     ]
   },
   {
-    "name": "PACK UNIVERSAL Y OTROS",
+    "name": "CINES-SERIES",
     "samples": [
       {
         "name": "UNIVERSAL COMEDY",
@@ -1662,13 +1655,7 @@
   {
     "name": "DEPORTES",
     "samples": [
-      {
-        "name": "TNT SPORT HD",
-        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/gch8433vnz9npnrdpk238/KEY.TNT.SPORTS.json?rlkey=19teu01z629jufe4qp59xl753&dl=0",
-        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
-      },
+     
       {
         "name": "TNT SPORT HD OPC 2",
         "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
@@ -1749,6 +1736,19 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/xvcb2rtotyfjdjwmvsiew/KEY.SPEN.EXTRA.json?rlkey=w2kggctnu2dqyawwtmf0ad5jc&dl=0",
         "icono": "https://i.ibb.co/27M5YFg/espn-extra.jpg"
       },
+      
+
+
+      {
+        "name": "ESPN DEPORTES",
+        "uri": "https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1acb5ff7b0dbfdf19c4dca1aabfaaa11&key=be65e5985fa04a49af310f0a92a0260a",
+        "icono": "http://imgfz.com/i/5VtU0sy.png"
+      },
+
+      
+
       {
         "name": "DIRECTV",
         "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
@@ -1893,8 +1893,12 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/9r7n56k9b1a3lsj/KEY.FIGHT.json",
         "icono": "https://i.ibb.co/VQxcM40/43-439776-fightchannel-logo-fight-channel-world-hd.jpg"
-      },
-  
+      }
+    ]
+  },
+  {
+    "name": "DAZN 1",
+    "samples": [
       {
         "name": "DAZN ALEMANIA",
         "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd?p=web",
