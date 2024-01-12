@@ -1729,7 +1729,7 @@
       },
       {
         "name": "TNT SPORT HD OPC 2",
-        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TNT_SPORTS)/index.m3u8",
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
       },
       {
@@ -1740,14 +1740,39 @@
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
       },
       {
-        "name": "FOX SPORTS 1",
+        "name": "FOX SPORTS 1 CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS)/index.m3u8",
+        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png"
+      },
+      {
+        "name": "FOX SPORTS 2 CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_2)/index.m3u8",
+        "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
+      },
+       {
+        "name": "FOX SPORTS 3 CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_3)/index.m3u8",
+        "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
+      },
+      {
+        "name": "ESPN 1 CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ESPN)/index.m3u8",
+        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
+      },
+       {
+        "name": "ESPN 2 CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ESPN2)/index.m3u8",
+        "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg"
+      },
+      {
+        "name": "FOX SPORTS 1 FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https:/dl.dropbox.com/scl/fi/58qe7dj2l2zlym5c2docq/KEY.VTV.fox.sports.json?rlkey=hyd11nbwp57yv8vp9itp003o2&dl=0",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png"
       },
       {
-        "name": "FOX SPORTS 2",
+        "name": "FOX SPORTS 2 FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/k9dh5ew1a86vy8iwct0dh/KEY.FOX.SPORTS2.json?rlkey=l5ilfcfkv0jwyfpq3ddxg85cb&dl=",
@@ -1761,7 +1786,7 @@
         "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
       },
       {
-        "name": "FOX SPORTS3",
+        "name": "FOX SPORTS 3 FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/iwpkbo4jmhzepw3o6vpia/KEY.FOX.SPORTS3.json?rlkey=y05iharuo2a66rfrfs7b6kl4e&dl=0",
