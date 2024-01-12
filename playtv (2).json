@@ -851,13 +851,27 @@
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
       },
       {
-        "name": "TELEFUTURO",
+        "name": "TELEFUTURO FLOW 1",
         "uri": "https://chromecast.cvattv.com.ar//live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
       },
+       {
+        "name": "TELEFUTURO FLOW 2",
+        "uri": "https://edge-live01-bel.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
+      },
       {
+        "name": "TELEFUTURO FLOW 3",
+        "uri": "https://edge-live31-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/9i20e2knw5h5mbx/key.telefuturo.json",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
+      },
+       {
         "name": "TELEFUTURO OPC 2",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
