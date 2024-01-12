@@ -1177,63 +1177,78 @@
     "name": "PACK-HBO",
     "samples": [
       {
-        "name": "HBO",
+        "name": "HBO CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/index.m3u8",
+        "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
+      },
+      {
+        "name": "HBO 2 CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_2_HD)/index.m3u8",
+        "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png"
+      }, 
+        {
+        "name": "HBO EXTREME CLARO",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBOXTREME)/index.m3u8",
+        "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png"
+      }, 
+	{
+        "name": "HBO FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5317283f4110fac3fb3a0becd9f648bc&key%5B%5D=0754a03c926b1247216e01d9dbcfac28",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
       },
       {
-        "name": "HBO 2",
+        "name": "HBO 2 FLOW",
         "uri": "https://chromecast.cvattv.com.ar/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c90cc57ad2c436e5a77db2f8d9db2d85&key%5B%5D=04f6c73984bdcffd013050608497935d",
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png"
       },
       {
-        "name": "HBO XTREME",
+        "name": "HBO XTREME FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/xyhhqzlk7oc70ca/KEY.HBO.EXTREME.json",
         "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png"
       },
       {
-        "name": "HBO XTREME2",
+        "name": "HBO XTREME2 FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d504011bbef467c0de3a7534e302a6d4&key%5B%5D=334103e2abe16faa7f9ab2e3097c5a58",
 		"icono": "https://i.postimg.cc/T2g6Mq1c/hbo-xtreme-logo-D424105400-seeklogo-com.png" 
       },
       {
-        "name": "HBO FAMILY",
+        "name": "HBO FAMILY FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=535473132f68082160b489482ca35f8e&key%5B%5D=e90fd91fcd3fc809bed2b1c0d37f7297",
         "icono": "https://i.ibb.co/DMn0KSH/descarga-2.png"
       },
       {
-        "name": "HBO SIGNATURE",
+        "name": "HBO SIGNATURE FLOW",
         "uri": "https://chromecast.cvattv.com.ar/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e866499fbc1149f49989672075aa3a68&key%5B%5D=d2dd5c95623c6343240981c2202fc311",
         "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png"
       },
       {
-        "name": "HBO MUNDI",
+        "name": "HBO MUNDI FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/0vpf9mu9im6kf3l/KEY.HBO.MUNDI.json",
         "icono": "https://i.ibb.co/dJjRPzB/ar-max-m.png"
       },
       {
-        "name": "HBO PLUS",
+        "name": "HBO PLUS FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f0e7f7d458990edfab7b98b412564615&key%5B%5D=79205754b7f84a62661c2dbe9de5dd5d",
         "icono": "https://i.ibb.co/1qcpR0T/ar-hbo-plus-panamericano-hd-m.png"
       },
       {
-        "name": "HBO POP",
+        "name": "HBO POP FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/ps12mn29wzvvvyx/KEY.HBO.POP.json",
