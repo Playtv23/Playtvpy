@@ -16,8 +16,11 @@
         "name": "Inter Miami vs NYC FC",
         "uri": "https://main.mobachira.net/Tou23/45ZI/44",
         "icono": "https://www.prensa-latina.cu/wp-content/uploads/2023/07/messi-inter-miami.jpg"
+      
       }
+      
     ]
+    
   },
   {
     "name": "TIGO SPORTS",
@@ -47,7 +50,9 @@
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8",
         "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
       }
+      
     ]
+  
   },
   {
     "name": "MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026",
@@ -1414,29 +1419,8 @@
         "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8",
         "icono": "https://i.postimg.cc/qMvdmtPQ/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"
       }
-   [
-  {
-    "name": "24/7",
-    "samples": [
-      {
-        "name": "ALERTA EN AEROPUERTO",
-        "uri": "https://snqplaypro.com/demotv/play/347.m3u8",
-        "icono": "http://imgfz.com/i/ZMmLB0S.jpeg"
-      },
-      {
-        "name": "EVENTO 2",
-        "uri": "https://cloud2.streaminglivehd.com/8010/8010/chunklist.m3u8",
-        "icono": "https://www.prensa-latina.cu/wp-content/uploads/2023/07/messi-inter-miami.jpg"
-      },
-      {
-        "name": "Inter Miami vs NYC FC",
-        "uri": "https://main.mobachira.net/Tou23/45ZI/44",
-        "icono": "https://www.prensa-latina.cu/wp-content/uploads/2023/07/messi-inter-miami.jpg"
-      }
-    ]
-  },
-    
-    ]
+  
+  ]
   },
   {
     "name": "CINES-SERIES",
@@ -1695,6 +1679,37 @@
       }
     ]
   },
+  {
+    "name": "TIGO SPORTS",
+    "samples": [
+      {
+        "name": "Tigo Sports py",
+        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/onlinepy/playlist.m3u8",
+        "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+      },
+      {
+        "name": "TIGO 2",
+        "uri": "https://vkvsd82.mycdn.me/hls/5425800743623.m3u8/sig/EbDVZDytbr8/expires/1696976111769/srcIp/201.218.159.13/urls/185.226.53.95/clientType/14/srcAg/CHROME_ANDROID/mid/6467837438919/5425800743623_high/index.m3u8",
+        "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+      },
+      {
+        "name": "TIGO SPORTS 2",
+        "uri": "https://stream.dlivecdn.com/dlive-sbvtzepelp/1696890413/src/live.m3u8",
+        "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+      },
+      {
+        "name": "TIGO SPORTS  3",
+        "uri": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/_AhgcJklU5W-jI7JowDifXkjubFSBNts0vprj7es_GE0eadsqiral4IVl5ghdYTSSyv9xux9sNVHGSvMF2lX-A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live",
+        "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
+      },
+      {
+        "name": "TIGO GUATEMALA",
+        "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8",
+        "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
+      }
+  },    
+      ]
+
   {
     "name": "DEPORTES",
     "samples": [
