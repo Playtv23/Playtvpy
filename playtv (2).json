@@ -1767,10 +1767,8 @@
 
       {
         "name": "DIRECTV",
-        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731",
-        "icono": "https://i.ibb.co/Cbx5gZt/descarga-6.jpg"
+         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u
+	 "icono": "https://i.ibb.co/Cbx5gZt/descarga-6.jpg"
       },
       {
         "name": "DIRECTV +",
@@ -1956,83 +1954,4 @@
         "icono": "https://i.ibb.co/dKBD6Nz/conex-zapping-poster-755986-SPA-13-V.jpg"
       }
     ]
-  },
-   {
-    "name": "DAZN",
-    "samples": [
-      {
-        "name": "DAZN ALEMANIA",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN ALEMANIA 2",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "DAZN ESPAÑA 1",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN ESPAÑA 2",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/hu6tqqtxeb58k7rbkeqpy/KEY.DAZNESPA-A2.json?rlkey=9ek0p67c94vn064qrlqboyp7a&dl=0",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "DAZN2",
-        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e78391deb5706f9311d952d6be6a6139&key=6f18f24433288d9462597aed58138336",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      }
-	{
-    "name": "DAZN",
-    "samples": [
-      {
-        "name": "DAZN ALEMANIA",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN ALEMANIA 2",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "DAZN ESPAÑA 1",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN ESPAÑA 2",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/hu6tqqtxeb58k7rbkeqpy/KEY.DAZNESPA-A2.json?rlkey=9ek0p67c94vn064qrlqboyp7a&dl=0",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "DAZN2",
-        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e78391deb5706f9311d952d6be6a6139&key=6f18f24433288d9462597aed58138336",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      }
-    ]
-  }
-]
+ 
