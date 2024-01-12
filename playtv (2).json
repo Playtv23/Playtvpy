@@ -16,18 +16,15 @@
         "name": "Inter Miami vs NYC FC",
         "uri": "https://main.mobachira.net/Tou23/45ZI/44",
         "icono": "https://www.prensa-latina.cu/wp-content/uploads/2023/07/messi-inter-miami.jpg"
-      
       }
-      
     ]
-    
-    },
+  },
   {
     "name": "TIGO SPORTS",
     "samples": [
       {
         "name": "Tigo Sports py",
-        "uri": "https://rpn3.bozztv.com/ssh101/ssh101/onlinepy/playlist.m3u8",
+        "uri": "http://45.159.95.33:8080/play/mpegts/eyJpdiI6IjNWZ3dmeGZaaWxLNEI3RmRTdVZVdHc9PSIsInZhbHVlIjoib1Y2d2JpNklQaXVhSVBWejNxdGRaY2libVI4WDJtdU5EbkxEcWprSjA1MEVOVnNoa2h4MWoyWG1uZWxWWmFSdCIsIm1hYyI6ImY4MzlhZDhiNDM4YjU3NjBlNGFjMmQ3NDI1MGNmMmRmMWFjMDhiNzBlMzBjZjczMTU4YzUwNGNjOThjNWM4MzYiLCJ0YWciOiIifQ==/59769b5b-8a67-4c81-8146-583742c089ec.ts?lvtoken=eyJpdiI6IkRWUTZIaTkwbFczWnBxQmVBMFdQOFE9PSIsInZhbHVlIjoiVXNzc1pxbFJzRDFQVHRTSUI4N3JkZEdsejJlM0xrWndIb0cwUkpmaEpZVXExTkdGNUpGSHhTYklUUFNVbFhjK0RmQXg1VXFDSHhPKzU2SW1CTlB3RnZtTlBzTG8yQjVqMXZxOUR5ODdEcU0zVnZEb2E2eGZNUWZvUW1jaGRxcTlJRjZUYWx5TzU5Vk9RVllET0d4YmNqWVJUR0locnNEZGU3NlBsdlM5K3V1azIwS1dHVURhQ0o4azBLMWFkUWJCSVV2aTNObkpQanoySE1BT1BhUGhUdz09IiwibWFjIjoiZGFmOTZkYTUwZWVjODAwZTNiMGI2ZTQyMjAzODczZDBkZTIxNDEzZjhkOTI4OWRlOGJlNTU2MzI3MzEwZWJmMiIsInRhZyI6IiJ9&r=c960d9&rt=05951279e3fefd7ec26182b24c3fee76",
         "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       },
       {
@@ -50,9 +47,7 @@
         "uri": "https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8",
         "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
       }
-      
     ]
-  
   },
   {
     "name": "MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026",
@@ -1419,98 +1414,32 @@
         "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8",
         "icono": "https://i.postimg.cc/qMvdmtPQ/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"
       }
-    {
-        "name": "PAKA PAKA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=334001b2f2644df9bdf35e92d2b89f8f&key=475ec87d86ed0636dbb6d6d9d4a43bb7",
-        "icono": "https://i.postimg.cc/761GJTfR/maxresdefault.jpg"
-      },
-      {
-        "name": "CartoonNetwork",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d7df56efaa36a71141d238854cc46d1d&key=8abb2ee9150d8b2af8ebec0de0f833c8",
-        "icono": "https://i.postimg.cc/brdSzHKx/240px-Cartoon-Network-2010-logo-svg.png"
-      },
-      {
-        "name": "Nick Jr",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083",
-        "icono": "https://i.postimg.cc/h41czR0h/image.png"
-      },
-      {
-        "name": "Tooncast",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=10638a722eb54c64bfb0e7a77483686a&key=41a7d3d522e19215b7e8f611b6902d61",
-        "icono": "https://i.postimg.cc/3Nmh9zsf/image.png"
-      },
-      {
-        "name": "Disney Channel",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda",
-        "icono": "https://i.postimg.cc/RZfs2zG4/Disney-Channel-2014-HD.png"
-      },
-      {
-        "name": "Discovery Kids",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b",
-        "icono": "https://i.postimg.cc/hj7f1pcy/Discovery-kids-logo.png"
-      },
-      {
-        "name": "Nickelodeon",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61c18cefecc2d067beaa9ff181305345&key=38d6f650cbf9a38fd9f35c01f98e647a",
-        "icono": "https://i.postimg.cc/25R4KWLH/1014321.png"
-      },
-      {
-        "name": "Boomerang",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5792e613fceb699c79cbc0e75fe4cd37&key=a672793730476ed23e5c1bce2ff570c6",
-        "icono": "https://i.postimg.cc/6Q8dFVBR/1200px-Boomerang-2014-logo-svg.png"
-      },
-      {
-        "name": "DIOS TE VE",
-        "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.postimg.cc/qMvdmtPQ/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"
-      }
-  ]
+    ]
   },
   {
     "name": "CINES-SERIES",
     "samples": [
       {
         "name": "UNIVERSAL COMEDY",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_COMEDY_HD)/index.m3u8",
+        "uri": "http://200.58.64.229:8000/play/a01i/index.m3u8",
         "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
         "name": "UNIVERSAL CRIME",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CRIME_HD)/index.m3u8",
+        "uri": "http://200.58.64.229:8000/play/a01h/index.m3u8",
         "icono": "http://static.tvar.io/imagenes/uncrime.png"
       },
       {
         "name": "UNIVERSAL PREMIERE",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_PREMIERE_HD)/index.m3u8",
+        "uri": "http://200.58.64.229:8000/play/a01e/index.m3u8",
         "icono": "http://static.tvar.io/imagenes/unpremiere.png"
       },
       {
         "name": "UNIVERSAL REALITY",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_REALITY_HD)/index.m3u8",
+        "uri": "http://200.58.64.229:8000/play/a01g/index.m3u8",
         "icono": "http://static.tvar.io/imagenes/unreality.png"
       },
-        {
-        "name": "UNIVERSAL CINEMA",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8",
-        "icono": "https://i.ibb.co/BNT8hMM/Universal-Cinema-2021-removebg-preview-1.jpg"
-      },
-	{
+      {
         "name": "GOLDEN",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_HD)/index.m3u8",
         "icono": "https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
@@ -1838,8 +1767,8 @@
 
       {
         "name": "DIRECTV",
-        "uri": "https://snqplaypro.com/demotv/play/256.m3u8",
-        "icono": "http://imgfz.com/i/q9HYFAD.png"
+         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u
+	 "icono": "https://i.ibb.co/Cbx5gZt/descarga-6.jpg"
       },
       {
         "name": "DIRECTV +",
