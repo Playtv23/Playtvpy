@@ -1408,6 +1408,11 @@
     "name": "CINES-SERIES",
     "samples": [
       {
+        "name": "UNIVERSAL CINEMA ",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8",
+        "icono": "http://imgfz.com/i/3QBGNC5.png"
+      },
+     {
         "name": "UNIVERSAL COMEDY ",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_COMEDY_HD)/index.m3u8",
         "icono": "http://static.tvar.io/imagenes/uncomedy.png"
