@@ -23,7 +23,7 @@
     "name": "TIGO SPORTS",
     "samples": [
       {
-        "name": "TIGO 24/7 PY",
+        "name": "TIGO PY 24/7",
         "uri": "https://rpn3.bozztv.com/ssh101/ssh101/onlinepy/playlist.m3u8",
         "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       },
@@ -1326,23 +1326,12 @@
   {
     "name": "CANALES INFANTILES Y 24/7",
     "samples": [
-       {
-        "name": "DRAGON BALL SUPER",
-        "uri": "https://snqplaypro.com/demotv/play/191.m3u8",
-        "icono": "http://imgfz.com/i/VHhJguW.jpeg"
+      {
+      "name": "DRGON BALL SUPER",
+        "uri": "https://snqplaypro.com/demotv/play/310.m3u8",
+        "icono": "http://imgfz.com/i/36uZ9fb.jpeg"
       },
-	{
-        "name": "LOS PITUFOS",
-        "uri": "https://snqplaypro.com/demotv/play/329.m3u8",
-        "icono": "http://imgfz.com/i/w3dmHhk.jpeg"
-      },
-	     },
-	{
-        "name": "FAMILIA PELUCHE",
-        "uri": "https://snqplaypro.com/demotv/play/108.m3u8",
-        "icono": "http://imgfz.com/i/V8yQKTk.jpeg"
-      },
-	    {
+      {
         "name": "PAKA PAKA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
         "drm_scheme": "clearkey",
@@ -1409,50 +1398,44 @@
     "name": "CINES-SERIES",
     "samples": [
       {
-        "name": "UNIVERSAL COMEDY",
-        "uri": "http://200.58.64.229:8000/play/a01i/index.m3u8",
-        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
-      },
-	    {
-        "name": "UNIVERSAL COMEDY 2",
+        "name": "UNIVERSAL COMEDY ",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_COMEDY_HD)/index.m3u8",
         "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
-      {
+       {
         "name": "UNIVERSAL CRIME",
-        "uri": "http://200.58.64.229:8000/play/a01h/index.m3u8",
-        "icono": "http://static.tvar.io/imagenes/uncrime.png"
-      },
-	      {
-        "name": "UNIVERSAL CRIME 2",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CRIME_HD)/index.m3u8",
-        "icono": "http://static.tvar.io/imagenes/uncrime.png"
+        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
         "name": "UNIVERSAL PREMIERE",
-        "uri": "http://200.58.64.229:8000/play/a01e/index.m3u8",
-        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
-      },
-	     {
-        "name": "UNIVERSAL PREMIERE 2",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_PREMIERE_HD)/index.m3u8",
-        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
+        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
         "name": "UNIVERSAL REALITY",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_REALITY_HD)/index.m3u8",
+        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
+      },
+      {
+        "name": "UNIVERSAL COMEDY 2",
+        "uri": "http://200.58.64.229:8000/play/a01i/index.m3u8",
+        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
+      },
+      {
+        "name": "UNIVERSAL CRIME 2",
+        "uri": "http://200.58.64.229:8000/play/a01h/index.m3u8",
+        "icono": "http://static.tvar.io/imagenes/uncrime.png"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE 2",
+        "uri": "http://200.58.64.229:8000/play/a01e/index.m3u8",
+        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
+      },
+      {
+        "name": "UNIVERSAL REALITY 2",
         "uri": "http://200.58.64.229:8000/play/a01g/index.m3u8",
         "icono": "http://static.tvar.io/imagenes/unreality.png"
-      },
-	     {
-        "name": "UNIVERSAL REALITY 2",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_REALITY_HD)/index.m3u8",
-        "icono": "http://static.tvar.io/imagenes/unreality.png"
-      },
-	     },
-	     {
-        "name": "UNIVERSAL CINEMA",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8",
-        "icono": "http://imgfz.com/i/3QBGNC5.png"
       },
       {
         "name": "GOLDEN",
