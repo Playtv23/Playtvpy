@@ -2050,12 +2050,8 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/9r7n56k9b1a3lsj/KEY.FIGHT.json",
         "icono": "https://i.ibb.co/VQxcM40/43-439776-fightchannel-logo-fight-channel-world-hd.jpg"
-      }
-    ]
-  },
-  {
-    "name": "DAZN",
-    "samples": [
+      },
+   
       {
         "name": "FORMULA 1",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/295663",
@@ -2088,4 +2084,3 @@
       }
     ]
   }
-]
