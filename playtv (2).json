@@ -1047,25 +1047,35 @@
     "name": "BRASIL",
     "samples": [
       {
+        "name": "GLOBO MINAS",
+        "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/143000",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+      },
+      {
         "name": "GLOBO TV",
         "uri": "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
       {
-        "name": "BandSports",
+        "name": "BAND SPORTS SIN GEO",
+        "uri": "http://rasaiptv.com:8080/Listabdvrv7374664/Nebrvcrbrbf/87004",
+        "icono": "http://imgfz.com/i/DhJWEVu.jpeg"
+      },
+      {
+        "name": "BAND SPORTS",
         "uri": "https://0054-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=0&country=BR&accountType=OTT",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd1af42db82f5a17a0d75246f25f5201&key=2d104170d5617556b16484d2c44b0036",
         "icono": "https://dl.dropbox.com/scl/fi/obzu060o5bmw20aym0tho/WhatsApp-Image-2023-08-28-at-3.33.22-PM.jpeg?rlkey=d26mz5llj7b8lrtvwsodkiu3g&dl=0"
       },
       {
-        "name": "Record News",
-        "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@recordnews/live",
+        "name": "RECORD NEW",
+        "uri": "http://rasaiptv.com:8080/Listabdvrv7374664/Nebrvcrbrbf/77530",
         "icono": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "name": "CNN Brasil",
-        "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@CNNbrasil/live",
+        "name": "CNN BRASIL",
+        "uri": "http://rasaiptv.com:8080/Listabdvrv7374664/Nebrvcrbrbf/77528",
         "icono": "https://play-lh.googleusercontent.com/8ch6kAhf2Ydd34PPqtOGh-troE-Zee9LxH-xZVlZml7YwNGyA1Nq2xXER-84CZHmoNyw"
       },
       {
@@ -1088,8 +1098,13 @@
         "uri": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
         "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
       },
-      {
+ {
         "name": "RECORD TV",
+        "uri": "http://rasaiptv.com:8080/Listabdvrv7374664/Nebrvcrbrbf/170594",
+        "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
+      }
+      {
+        "name": "RECORD TV 2",
         "uri": "https://caikron.com.br:19360/criciuma/criciuma.m3u8",
         "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
       }
@@ -1422,7 +1437,17 @@
         "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/12994",
         "icono": "http://imgfz.com/i/WFvoe84.jpeg"
       },
-	    {
+      {
+      "name": "CORAJE EL PERRO COBARDE",
+        "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/9284",
+        "icono": "http://imgfz.com/i/8abxsne.jpeg"
+      },
+      {
+      "name": "DR HOUSE",
+        "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/3123",
+        "icono": "http://imgfz.com/i/71r32qA.jpeg"
+      },
+	{
         "name": "PAKA PAKA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
         "drm_scheme": "clearkey",
