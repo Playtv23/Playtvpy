@@ -1074,6 +1074,11 @@
         "icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"
       },
       {
+        "name": "SBT 2",
+        "uri": "https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8",
+        "icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"
+      },
+      {
         "name": "TVNOVAPLAY",
         "uri": "https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8",
         "icono": "https://i0.wp.com/girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png?fit=1024%2C768&ssl=1"
@@ -1382,6 +1387,11 @@
   {
     "name": "CANALES INFANTILES Y 24/7",
     "samples": [
+       {
+      "name": "CHAVO ANIMADO",
+        "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/9286",
+        "icono": "http://imgfz.com/i/2T4oeva.jpeg"
+      },
       {
       "name": "DRGON BALL SUPER",
         "uri": "https://snqplaypro.com/demotv/play/191.m3u8",
@@ -1872,12 +1882,10 @@
       
 
       
-      {
-        "name": "DIRECTV +",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/dtv+.json",
-        "icono": "https://i.postimg.cc/jS23T437/directvplus.jpg"
+       {
+        "name": "DIRECTV SPORTS 1",
+        "uri": "",
+        "icono": "http://imgfz.com/i/HPAxOe0.jpeg"
       },
       {
         "name": "DIRECTV SPORTS MOTOR",
