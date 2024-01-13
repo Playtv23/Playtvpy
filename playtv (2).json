@@ -1392,6 +1392,11 @@
         "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/9286",
         "icono": "http://imgfz.com/i/2T4oeva.jpeg"
       },
+       {
+      "name": "DRGON BALL Z SAGA ANDROIDE",
+        "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/22794",
+        "icono": "http://imgfz.com/i/CHrP2Z7.jpeg"
+      },
       {
       "name": "DRGON BALL SUPER",
         "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/604",
@@ -1412,7 +1417,12 @@
         "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/607",
         "icono": "http://imgfz.com/i/MbfHth4.jpeg"
       },
-      {
+       {
+      "name": "EL PAJARO LOCO",
+        "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/12994",
+        "icono": "http://imgfz.com/i/WFvoe84.jpeg"
+      },
+	    {
         "name": "PAKA PAKA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
         "drm_scheme": "clearkey",
