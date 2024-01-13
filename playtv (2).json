@@ -75,11 +75,11 @@
         "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV2.jpg"
       },
       {
-        "name": "SPORTV 3",
-        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0070",
+        "name": "EVENTOS STAR",
+        "uri": "https://midiarioz.com/star.html?get=https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/01/13/Amrica_de_Cali_COL_vs_Cer_20240113_1705176021027/ctr-all-complete.m3u8",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=08a4277424073a15badafef701a42b8b&key=030601e605c2896a442c73d575a323a8",
-        "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV3.jpg"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e57330583e6b40ff9e6dc0177f02ea84=37f6e6ef80ae337b140847853fb10dd8",
+        "icono": "http://imgfz.com/i/cvVHqPE.png"
       },
       {
         "name": "BEIN SPORTS EXTRA",
