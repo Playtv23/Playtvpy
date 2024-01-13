@@ -2013,7 +2013,7 @@
     ]
   },
   {
-    "name": "FORMULA 1",
+    "name": "DAZN",
     "samples": [
       {
         "name": "FORMULA 1",
@@ -2021,32 +2021,24 @@
         "icono": "http://imgfz.com/i/GAYOsda.png"
       },
       {
-        "name": "DAZN ALEMANIA 2",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ac0ugpqoc9zfetonhlyiy/KEY.DAZN2.json?rlkey=qf9ymi2qm8mx1tq0adp1hfc94&dl=0",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
+        "name": "DAZN 1",
+        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/361213",
+        "icono": "http://imgfz.com/i/V54ynkU.jpeg"
       },
-      {
-        "name": "ARENA  SPORT 2 PREMIUM",
-        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json",
-        "icono": "https://i.ibb.co/XFwwGcL/tv-station-rs-arena-premium-2-2697.png"
+       {
+        "name": "DAZN 2",
+        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/279226",
+        "icono": "http://imgfz.com/i/zGLWpMo.jpeg"
       },
-      {
-        "name": "ARENA  SPORT 3 PREMIUM",
-        "uri": "https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/arenasport.json",
-        "icono": "https://i.ibb.co/xHy202f/tv-station-rs-arena-premium-3-2698.png"
+       {
+        "name": "DAZN 3",
+        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/297430",
+        "icono": "http://imgfz.com/i/Uh9MlR2.jpeg"
       },
-      {
-        "name": "EURO  SPORT",
-        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd?p=web",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/euro.json",
-        "icono": "https://i.ibb.co/w7gZXZL/images-2.png"
+     {
+        "name": "MOVISTAR LA LIGA",
+        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/226493",
+        "icono": "http://imgfz.com/i/wEu1Bok.png"
       },
       {
         "name": "TELE DEPORTE",
