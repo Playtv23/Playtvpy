@@ -1046,7 +1046,16 @@
   {
     "name": "BRASIL",
     "samples": [
-      
+      {
+        "name": "GLOBO MINAS",
+        "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/143000",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+      },
+      {
+        "name": "GLOBO TV",
+        "uri": "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+      },
       {
         "name": "BAND SPORTS",
         "uri": "https://0054-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=0&country=BR&accountType=OTT",
