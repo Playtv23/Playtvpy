@@ -1,7 +1,7 @@
 [
   
      {
-    "name": "DEPORTES Y OTROS",
+    "name": "DEPORTES NACIONALES E INTERNACIONALES",
     "samples": [
       {
         "name": "TIGO PY 24/7",
@@ -242,11 +242,7 @@
         "uri": "https://main.mobachira.net/Tou23/45ZI/44",
         "icono": "https://www.prensa-latina.cu/wp-content/uploads/2023/07/messi-inter-miami.jpg"
       }
-    ]
-  },
-  {
-    "name": "TIGO SPORTS",
-    "samples": [
+   
       
     ]
   },
