@@ -1754,6 +1754,16 @@
     "name": "DEPORTES",
     "samples": [
       {
+        "name": "WIN SPORTS",
+        "uri": "http://190.61.43.118:45000/play/a067",
+        "icono": "http://imgfz.com/i/LdbHj8C.jpeg"
+      },
+      
+        "name": "WIN SPORTS + HD",
+        "uri": "http://200.59.188.3:8000/play/a028",
+        "icono": "http://imgfz.com/i/LdbHj8C.jpeg"
+      },
+      {
         "name": "AFIZZINADOS",
         "uri": "https://snqplaypro.com/demotv/play/337.m3u8",
         "icono": "http://imgfz.com/i/6zXlMNd.png"
