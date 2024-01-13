@@ -1260,6 +1260,11 @@
       },
       {
         "name": "BAND SPORTS",
+        "uri": "http://rasaiptv.com:8080/Listabdvrv7374664/Nebrvcrbrbf/87004",
+        "icono": "http://imgfz.com/i/DhJWEVu.jpeg"
+      },
+	{
+        "name": "BAND SPORTS",
         "uri": "https://0054-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=0&country=BR&accountType=OTT",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd1af42db82f5a17a0d75246f25f5201&key=2d104170d5617556b16484d2c44b0036",
@@ -1268,7 +1273,7 @@
       {
         "name": "RECORD NEW",
         "uri": "http://rasaiptv.com:8080/Listabdvrv7374664/Nebrvcrbrbf/77530",
-        "icono": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s900-c-k-c0x00ffffff-no-rj"
+        "icono": "http://imgfz.com/i/tfJmlIs.png"
       },
       {
         "name": "CNN BRASIL",
