@@ -1041,6 +1041,11 @@
     "name": "TV PARAGUAY",
     "samples": [
       {
+        "name": "UNIVERSO TV",
+        "uri": "https://testphp07.alwaysdata.net/universo/index.m3u8",
+        "icono": "http://imgfz.com/i/gWBHzNp.jpeg"
+      },
+     {
         "name": "SNT CLARO",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
@@ -1105,6 +1110,11 @@
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
       },
       {
+        "name": "MEGA TV  PY",
+        "uri": "https://streannlivemegacadena.cachefly.net/Protected/sp=1;dirmatch=true;ip=181.94.232.72/c9401fd769582510013f58f9e18babc88a67abadf04f3569dc04eaceb5910169/megacadena1/megacadena1/chunks.m3u8",
+        "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
+      },
+	{
         "name": "MEGA TV",
         "uri": "hhttps://chromecast.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_2A/Mega_TV.mpd",
         "drm_scheme": "clearkey",
