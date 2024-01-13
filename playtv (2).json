@@ -1,7 +1,106 @@
 [
-  {
-    "name": "MLS SOLO EVENTOS",
+  
+     {
+    "name": "DEPORTE Y OTROS",
     "samples": [
+      {
+    "name": "DEPORTES",
+    "samples": [
+      {
+        "name": "AFIZZINADOS",
+        "uri": "https://snqplaypro.com/demotv/play/337.m3u8",
+        "icono": "http://imgfz.com/i/6zXlMNd.png"
+      },
+      {
+        "name": "TNT SPORT HD OPC 2",
+        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
+        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+      },
+      {
+        "name": "TNT SPORT HD OPC 3",
+        "uri": "http://201.235.66.116/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/yqy8khlboyh8312jre8bn/KEYTNTSPORTS3.json?rlkey=x1d0m73idbkzfzehpxn6dhne8&dl=0",
+        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+      },
+      {
+        "name": "FOX SPORTS 1",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https:/dl.dropbox.com/scl/fi/58qe7dj2l2zlym5c2docq/KEY.VTV.fox.sports.json?rlkey=hyd11nbwp57yv8vp9itp003o2&dl=0",
+        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png"
+      },
+      {
+        "name": "FOX SPORTS 2",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/k9dh5ew1a86vy8iwct0dh/KEY.FOX.SPORTS2.json?rlkey=l5ilfcfkv0jwyfpq3ddxg85cb&dl=",
+        "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
+      },
+      {
+        "name": "FOX SPORTS 2 OPC 2",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
+        "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
+      },
+      {
+        "name": "FOX SPORTS3",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/iwpkbo4jmhzepw3o6vpia/KEY.FOX.SPORTS3.json?rlkey=y05iharuo2a66rfrfs7b6kl4e&dl=0",
+        "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "uri": "http://201.235.66.116/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https:/dl.dropbox.com/scl/fi/c11ketqcw3ox6633wlz6b/KEY.SPAN.Premiun_HD.json?rlkey=ls0ijc58ijwdaz42gj3j7vhj4&dl=0",
+        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+      },
+      {
+        "name": "ESPN PREMIUM OPC 2",
+        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/espnpremium/output.mpd",
+		"icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+      },
+      {
+        "name": "ESPN",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/1kl9uswdqdpdxitn1zliq/KEY.SPAN_HD.json?rlkey=ntn9i40onqnfxznasx5tf8at6&dl=0",
+        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
+      },
+      {
+        "name": "ESPN 2 ",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/60nodgy1zvbs1u7s1zhaw/KEY.SPAN2_HD.json?rlkey=co8enjkexfcw77aekywk7inzj&dl=0",
+        "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg"
+      },
+      {
+        "name": "ESPN 3",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/ojtweeee080o4lxiudj6s/KEY.SPAN3HD.json?rlkey=hyjh72qp24grs3av58cfs0gdr&dl=0",
+        "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg"
+      },
+      {
+        "name": "ESPN EXTRA",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xvcb2rtotyfjdjwmvsiew/KEY.SPEN.EXTRA.json?rlkey=w2kggctnu2dqyawwtmf0ad5jc&dl=0",
+        "icono": "https://i.ibb.co/27M5YFg/espn-extra.jpg"
+      },
+      
+
+
+      {
+        "name": "ESPN DEPORTES",
+        "uri": "https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1acb5ff7b0dbfdf19c4dca1aabfaaa11&key=be65e5985fa04a49af310f0a92a0260a",
+        "icono": "http://imgfz.com/i/5VtU0sy.png"
+      },
       {
         "name": "EVENTO 1",
         "uri": "https://markcastillo.agropaqserver1.com/hls/test.m3u8",
@@ -100,7 +199,7 @@
     ]
   },
   {
-    "name": "Canales de Musica radios",
+    "name": "CANALES MUSICAS Y RADIOS",
     "samples": [
       {
         "name": "MTV HITS",
