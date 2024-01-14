@@ -203,6 +203,11 @@
 		"icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
       },
       {
+        "name": "ESPN MEXICO",
+        "uri": "https://snqplaypro.com/demotv/play/242.m3u8",
+        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
+      },
+      {
         "name": "ESPN",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
