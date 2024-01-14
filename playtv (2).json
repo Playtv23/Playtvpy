@@ -1164,7 +1164,7 @@
       },
 	{
         "name": "MEGA TV",
-        "uri": "hhttps://chromecast.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_2A/Mega_TV.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc_2A/Mega_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/zdz11z81el8qov9wnyvwn/KEY.MEGA-TV1.json?rlkey=gqyyra9dd5k10rkcn5r71426m&dl=0",
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
