@@ -1145,6 +1145,11 @@
         "uri": "https://tigocloudgen.desdeparaguay.net/trecetv/trecetv_baja/index.m3u8",
         "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
       },
+       {
+        "name": "UNICANAL",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8",
+        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
+      },
       {
         "name": "UNICANAL",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
@@ -1154,7 +1159,7 @@
       },
       {
         "name": "MEGA TV  PY",
-        "uri": "https://streannlivemegacadena.cachefly.net/Protected/sp=1;dirmatch=true;ip=181.94.232.72/c9401fd769582510013f58f9e18babc88a67abadf04f3569dc04eaceb5910169/megacadena1/megacadena1/chunks.m3u8",
+        "uri": "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
       },
 	{
@@ -1223,7 +1228,12 @@
         "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
       },
       {
-        "name": "PARAVISION",
+        "name": "PARAVISION 1",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PARAVISION)/index.m3u8",
+        "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
+      },
+      {
+        "name": "PARAVISION 2",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/hwvh6ihwd8cdm3r/KEY.PARAVISON.json",
@@ -1242,14 +1252,24 @@
         "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
       },
       {
-        "name": "GEN TV",
+        "name": "GENTV 1",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GEN_TV)/index.m3u8",
+        "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
+      },
+      {
+        "name": "GEN TV 2",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/1w2rvmtzxk1447m/KEY.GENTV.json",
         "icono": "https://i.ibb.co/k2XNPqR/channels4-profile.jpg"
       },
+       {
+        "name": "LA TELE 1",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LA_TELE)/index.m3u8",
+        "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
+      },
       {
-        "name": "LA TELE",
+        "name": "LA TELE 2",
         "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/s/z1j68op8dtq50sr/KEY.LATELE.json",
