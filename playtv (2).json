@@ -114,6 +114,11 @@
         "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/84037",
         "icono": "http://imgfz.com/i/GkPvFZr.jpeg"
       },
+       {
+        "name": "VTV PLUS",
+        "uri": "http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/285",
+        "icono": "http://imgfz.com/i/dTApbyc.png"
+      },
       {
         "name": "REAL MADRID TV",
         "uri": "http://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8",
