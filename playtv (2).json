@@ -90,6 +90,16 @@
         "icono": "http://imgfz.com/i/z1wOX9T.png"
       },
       {
+        "name": "DIRECTV 1",
+        "uri": "https://snqplaypro.com/demotv/play/256.m3u8",
+        "icono": "http://imgfz.com/i/qzWBMt1.jpeg"
+      },
+      {
+        "name": "DIRECTV 2",
+        "uri": "https://snqplaypro.com/demotv/play/257.m3u8",
+        "icono": "http://imgfz.com/i/zsUV8wc.png"
+      },
+      {
         "name": "BEIN SPORTS EXTRA",
         "uri": "http://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8",
         "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
